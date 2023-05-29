@@ -1,4 +1,4 @@
-# Задача 26
+#26
 
 def step(n, m):
     res = 1
@@ -11,7 +11,7 @@ m = int(input('Введите степень'))
 res = step(n, m)
 print(n, 'в', m, 'степени', ' = ', res)
 
-# Задача 28
+#28
 
 def sum(a, b):
     if b == 0:
